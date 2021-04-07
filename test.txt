@@ -1,1 +1,4 @@
 This is a demo text file.
+I'm trying to be a devops engineer.
+To achieve my AWS Solutions Architect ambition.
+I believe wirking on Github repositories is on eof the basic things I need to understand hence the need for this updates.
